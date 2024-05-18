@@ -4,7 +4,7 @@ System Specifications
 - Docker
 
 How to run?
-1. Run using "docker-compose up"
+1. In the terminal run "docker-compose up"
 2. Open browser http://localhost:4200
 3. Open browser http://localhost:3200
 
