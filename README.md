@@ -1,7 +1,7 @@
 # eContractorDemo
 
 System Specifications
-Docker
+- Docker
 
 How to run?
 1. Run using "docker-compose up"
