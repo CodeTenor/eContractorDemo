@@ -9,7 +9,7 @@ How to run?
 3. Open browser http://localhost:3200
 
 Credentials
-Email/Username: admin@admin.com
-Password: P@55w0rd!
+- Email/Username: admin@admin.com
+- Password: P@55w0rd!
 
 
