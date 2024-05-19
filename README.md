@@ -13,6 +13,8 @@ Credentials
 - Password: P@55w0rd!
 
 How to setup eContractor for mobile portal
+Video link: https://youtu.be/GpdzgZy5fvI
+
 1. In admin portal. 
    - "Add Transformer Zone". Newly added transformer zones can be viewed under "Transformer Zones"
    - "Add Vehicle". Newly added vehicles can be viewed under "Vehicles"
